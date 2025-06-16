@@ -52,39 +52,35 @@ Vonnahme, T., Molari, M., Janßen, F., Wenzhöfer, F., Haeckel, M., Titschack, J
 
 ---
 
-| **Type**    | **Response** | **Automatic Evaluation Score** | **Manual Evaluation Score** |
-|------------|--------------|-------------------------------|------------------------------|
-| **Naive RAG** | <p>Deep-sea mining activities can have long-lasting impacts on marine ecosystems, and the recovery of affected environments and species is uncertain <strong>[1]</strong>.</p>
+| **Type**    | **Response**                                                                                           | **Automatic Evaluation Score** | **Manual Evaluation Score** |
+|------------|--------------------------------------------------------------------------------------------------------|-------------------------------|------------------------------|
+| Naive RAG    | Deep-sea mining activities can have long-lasting impacts on marine ecosystems, and the recovery of affected environments and species is uncertain [1].
+**Impacts and Recovery Variances:**
+* Mining activities can result in mortality of fauna, habitat loss and modification, and habitat fragmentation, leading to potential local extinctions [1].
+* Experiments mimicking mining disturbances in abyssal nodule fields suggest that it can take decades for deep-sea ecosystems to show signs of recovery. Even if faunal abundance recovers, the colonizing species may differ from the original ones [1].
+* Faunal densities tend to recover more quickly than local diversity; the latter may remain significantly reduced even after decades [1].
+* Recovery rates vary among different ecosystems and benthic taxa. Smaller and mobile animals typically recover faster than larger, sessile species [1].
+* Seamount ecosystems can take a long time to recover, and mining modifications may be too substantial for the community to return to its pre-disturbance composition and abundance [2].
+* In nodule fields, fauna relying on nodules as a hard substrate may be absent for millions of years until the substratum recovers [2].
+* Disturbed seabed communities could take several decades or centuries to recover, and some may never recover at all [3]. Population recovery is particularly difficult for deep-sea species, which are often characterised by slow growth rates and low fecundity [3].
+* The long-lasting legacy of deep-sea mining includes the reduction of microbial activity. Research indicates that it would take at least 50 years for some microbial functions to return, with full recovery taking much longer due to slow sedimentation rates [4].
 
-<strong>Impacts and Recovery Variances:</strong>
-<ul>
-  <li>Mining activities can result in mortality of fauna, habitat loss, and fragmentation, potentially leading to local extinctions <strong>[1]</strong>.</li>
-  <li>Experiments mimicking mining disturbances in abyssal nodule fields show recovery can take decades. Colonizing species may differ from the originals <strong>[1]</strong>.</li>
-  <li>Faunal density may recover faster than biodiversity, which can remain reduced for decades <strong>[1]</strong>.</li>
-  <li>Smaller/mobile animals recover faster than large/sessile ones <strong>[1]</strong>.</li>
-  <li>Seamount ecosystems may never return to pre-disturbance composition <strong>[2]</strong>.</li>
-  <li>Fauna reliant on nodules might not return for millions of years <strong>[2]</strong>.</li>
-  <li>Microbial functions may take over 50 years to return; full recovery might take centuries <strong>[3][4]</strong>.</li>
-</ul>
+**Mitigation and Restoration Actions:**
+* Mitigation efforts should include strategies such as spatial and temporal management of mining operations, and optimizing mining machine construction to minimize plume size and sediment compression [1].
+* Designating set-aside areas (refuges) is crucial for conserving biodiversity in both well-known and lesser-studied areas [1].
+* Restoration actions could involve deploying artificial substrates to enhance faunal colonization, habitat recreation, and artificial eutrophication [1].
 
-<strong>Mitigation and Restoration Actions:</strong>
-<ul>
-  <li>Manage mining operations spatially/temporally, and optimize machines to reduce plume size <strong>[1]</strong>.</li>
-  <li>Designating set-aside refuge areas is crucial <strong>[1]</strong>.</li>
-  <li>Restoration could involve artificial substrates or eutrophication to aid colonization <strong>[1]</strong>.</li>
-</ul>
+**Challenges and Uncertainties:**
+* There is a lack of practical experience regarding mitigation and restoration actions following mining impacts, which severely hampers their predictability and estimation of success [1].
+* The high costs associated with restoration in the deep sea could significantly hinder its feasibility [1].
+* The potential responses of communities to mitigation and restoration actions, such as deployment of artificial nodules, are currently unknown [2].
+* It is not yet possible to estimate the effect of cumulative impacts or predict whether they will result in irreversible changes, causing altered ecosystem states in areas surrounding mining [2].
 
-<strong>Challenges and Uncertainties:</strong>
-<ul>
-  <li>Lack of real-world experience hinders mitigation success predictions <strong>[1]</strong>.</li>
-  <li>Restoration in the deep sea is costly <strong>[1]</strong>.</li>
-  <li>Unknown effects of artificial nodules <strong>[2]</strong>.</li>
-  <li>Cumulative and potentially irreversible impacts cannot yet be predicted <strong>[2]</strong>.</li>
-</ul>
+**References**
 
-<strong>References:</strong><br>
-1. Cuvelier et al. (2018) [https://doi.org/10.3389/fmars.2018.00467](https://doi.org/10.3389/fmars.2018.00467)<br>
-2. Gollner et al. (2017) [https://doi.org/10.1016/j.marenvres.2017.04.010](https://doi.org/10.1016/j.marenvres.2017.04.010)<br>
-3. EJF (2023) [https://ejfoundation.org/resources/downloads/towards-the-abyss-ejf-deep-sea-mining-report.pdf](https://ejfoundation.org/resources/downloads/towards-the-abyss-ejf-deep-sea-mining-report.pdf)<br>
-4. Derouin (2020) [https://doi.org/10.1029/2020eo144321](https://doi.org/10.1029/2020eo144321)<br> | 27.5 | 28 |
-| **Hierarchical RAG** | MPAs are good but hard to implement. Countries have different laws and do not always agree. | 19.0 | 17 |
+1. Cuvelier, D., Gollner, S., Jones, D. O. B., Kaiser, S., Arbizu, P. M., Menzel, L., ... & Colaço, A. (2018). Potential Mitigation and Restoration Actions in Ecosystems Impacted by Seabed Mining. *Frontiers in Marine Science, 5*, 467. [https://doi.org/10.3389/fmars.2018.00467](https://doi.org/10.3389/fmars.2018.00467)
+2. Gollner, S., Kaiser, S., Menzel, L., Jones, D. O. B., Brown, A., Mestre, N. C., ... & Arbizu, P. M. (2017). Resilience of benthic deep-sea fauna to mining activities. *Marine Environmental Research, 129*, 76-101. [https://doi.org/10.1016/j.marenvres.2017.04.010](https://doi.org/10.1016/j.marenvres.2017.04.010)
+3. EJF. (2023). Towards the Abyss: How the rush to deep-sea mining threatens people and our planet. *Environmental Justice Foundation*. [https://ejfoundation.org/resources/downloads/towards-the-abyss-ejf-deep-sea-mining-report.pdf](https://ejfoundation.org/resources/downloads/towards-the-abyss-ejf-deep-sea-mining-report.pdf)
+4. Derouin, S. (2020). The Long-Lasting Legacy of Deep-Sea Mining. *Eos, 101*. [https://doi.org/10.1029/2020EO144321](https://doi.org/10.1029/2020eo144321)
+ | 27.5                          | 28                           |
+| Hierarchical RAG     | MPAs are good but hard to implement. Countries have different laws and do not always agree.             | 19.0                          | 17                           |
