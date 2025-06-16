@@ -37,8 +37,19 @@ Volz, J., Haffert, L., Haeckel, M., Koschinsky, A., & Kasten, S. (2020). Impact 
 Vonnahme, T., Molari, M., Janßen, F., Wenzhöfer, F., Haeckel, M., Titschack, J., … & Boetius, A. (2020). Effects of a deep-sea mining experiment on seafloor microbial communities and functions after 26 years. Science Advances, 6(18). https://doi.org/10.1126/sciadv.aaz5922
 
 
-### Markers Used
-*Coherence, Relevance, Factual Accuracy, Source Attribution, Structure*
+<h3>Semantic Benchmarks</h3>
+<ul>
+  <li><span style="color:darkred;"><b>Slow recovery – animals</b></span></li>
+  <li><span style="color:seagreen;"><b>Slow recovery – habitat</b></span></li>
+  <li><span style="color:steelblue;"><b>Life History traits</b></span></li>
+  <li><span style="color:orangered;"><b>Uncertainty</b></span></li>
+  <li><span style="color:purple;"><b>Ecosystem function</b></span></li>
+  <li><span style="color:slategray;"><b>Long-Lasting Impacts</b></span></li>
+  <li><span style="color:teal;"><b>Dispersal</b></span></li>
+  <li><span style="color:indigo;"><b>Widespread impacts</b></span></li>
+  <li><span style="color:darkorange;"><b>Connectivity</b></span></li>
+  <li><span style="color:crimson;"><b>Multiple stressors</b></span></li>
+</ul>
 
 ---
 
