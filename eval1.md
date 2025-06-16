@@ -50,11 +50,10 @@ Vonnahme, T., Molari, M., Janßen, F., Wenzhöfer, F., Haeckel, M., Titschack, J
 - ☢️ **Multiple stressors**
 
 
----
+### Naive RAG
 
-| **Type**    | **Response**                                                                                           | **Automatic Evaluation Score** | **Manual Evaluation Score** |
-|------------|--------------------------------------------------------------------------------------------------------|-------------------------------|------------------------------|
-| Naive RAG    | Deep-sea mining activities can have long-lasting impacts on marine ecosystems, and the recovery of affected environments and species is uncertain [1].
+### Response
+Deep-sea mining activities can have long-lasting impacts on marine ecosystems, and the recovery of affected environments and species is uncertain [1].
 **Impacts and Recovery Variances:**
 * Mining activities can result in mortality of fauna, habitat loss and modification, and habitat fragmentation, leading to potential local extinctions [1].
 * Experiments mimicking mining disturbances in abyssal nodule fields suggest that it can take decades for deep-sea ecosystems to show signs of recovery. Even if faunal abundance recovers, the colonizing species may differ from the original ones [1].
@@ -82,5 +81,9 @@ Vonnahme, T., Molari, M., Janßen, F., Wenzhöfer, F., Haeckel, M., Titschack, J
 2. Gollner, S., Kaiser, S., Menzel, L., Jones, D. O. B., Brown, A., Mestre, N. C., ... & Arbizu, P. M. (2017). Resilience of benthic deep-sea fauna to mining activities. *Marine Environmental Research, 129*, 76-101. [https://doi.org/10.1016/j.marenvres.2017.04.010](https://doi.org/10.1016/j.marenvres.2017.04.010)
 3. EJF. (2023). Towards the Abyss: How the rush to deep-sea mining threatens people and our planet. *Environmental Justice Foundation*. [https://ejfoundation.org/resources/downloads/towards-the-abyss-ejf-deep-sea-mining-report.pdf](https://ejfoundation.org/resources/downloads/towards-the-abyss-ejf-deep-sea-mining-report.pdf)
 4. Derouin, S. (2020). The Long-Lasting Legacy of Deep-Sea Mining. *Eos, 101*. [https://doi.org/10.1029/2020EO144321](https://doi.org/10.1029/2020eo144321)
- | 27.5                          | 28                           |
-| Hierarchical RAG     | MPAs are good but hard to implement. Countries have different laws and do not always agree.             | 19.0                          | 17                           |
+
+### Automatic Evaluation Score
+27.5   
+
+### Manual Evaluation Score
+27.5 
