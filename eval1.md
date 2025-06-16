@@ -17,14 +17,23 @@ In conclusion, while some species may exhibit resilience and potentially benefit
 **References**:  
 
 Fan, Z., Jia, Y., Chu, F., Zhu, X., Zhu, N., Li, B., … & Quan, Y. (2022). Effects of migration and diffusion of suspended sediments on the seabed environment during exploitation of deep-sea polymetallic nodules. Water, 14(13), 2073. https://doi.org/10.3390/w14132073
+
 Gollner, S., Kaiser, S., Menzel, L., Jones, D., Brown, A., Mestre, N., … & Arbizu, P. (2017). Resilience of benthic deep-sea fauna to mining activities. Marine Environmental Research, 129, 76-101. https://doi.org/10.1016/j.marenvres.2017.04.010
+
 Haffert, L., Haeckel, M., Stigter, H., & Janssen, F. (2019). Discol experiment revisited: assessing the temporal scale of deep-sea mining impacts on sediment biogeochemistry.. https://doi.org/10.5194/bg-2019-361
+
 Hauquier, F., Macheriotou, L., Bezerra, T., Egho, G., Arbizu, P., & Vanreusel, A. (2019). Distribution of free-living marine nematodes in the clarion–clipperton zone: implications for future deep-sea mining scenarios. Biogeosciences, 16(18), 3475-3489. https://doi.org/10.5194/bg-16-3475-2019
+
 Li, B. (2023). Impact of the mining process on the near-seabed environment of a polymetallic nodule area: a field simulation experiment in a western pacific area. Sensors, 23(19), 8110. https://doi.org/10.3390/s23198110
+
 Miljutin, D., Miljutina, M., Arbizu, P., & Galéron, J. (2011). Deep-sea nematode assemblage has not recovered 26 years after experimental mining of polymetallic nodules (clarion-clipperton fracture zone, tropical eastern pacific). Deep Sea Research Part I Oceanographic Research Papers, 58(8), 885-897. https://doi.org/10.1016/j.dsr.2011.06.003
+
 Miller, K., Thompson, K., Johnston, P., & Santillo, D. (2018). An overview of seabed mining including the current state of development, environmental impacts, and knowledge gaps. Frontiers in Marine Science, 4. https://doi.org/10.3389/fmars.2017.00418
+
 Orcutt, B., Bradley, J., Brazelton, W., Estes, E., Goordial, J., Huber, J., … & Pachiadaki, M. (2020). Impacts of deep‐sea mining on microbial ecosystem services. Limnology and Oceanography, 65(7), 1489-1510. https://doi.org/10.1002/lno.11403
+
 Volz, J., Haffert, L., Haeckel, M., Koschinsky, A., & Kasten, S. (2020). Impact of small-scale disturbances on geochemical conditions, biogeochemical processes and element fluxes in surface sediments of the eastern clarion–clipperton zone, pacific ocean. Biogeosciences, 17(4), 1113-1131. https://doi.org/10.5194/bg-17-1113-2020
+
 Vonnahme, T., Molari, M., Janßen, F., Wenzhöfer, F., Haeckel, M., Titschack, J., … & Boetius, A. (2020). Effects of a deep-sea mining experiment on seafloor microbial communities and functions after 26 years. Science Advances, 6(18). https://doi.org/10.1126/sciadv.aaz5922
 
 
