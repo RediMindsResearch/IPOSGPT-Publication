@@ -49,12 +49,17 @@ Vonnahme, T., Molari, M., Janßen, F., Wenzhöfer, F., Haeckel, M., Titschack, J
 - 🔗 **Connectivity**
 - ☢️ **Multiple stressors**
 
+---
+
 ## Evaluation Report
+
+---
 
 ### Type - Naive RAG
 
 ### Response
 Deep-sea mining activities can have long-lasting impacts on marine ecosystems, and the recovery of affected environments and species is uncertain [1].
+
 **Impacts and Recovery Variances:**
 * Mining activities can result in mortality of fauna, habitat loss and modification, and habitat fragmentation 🔗, leading to potential local extinctions [1].
 * Experiments mimicking mining disturbances in abyssal nodule fields suggest that it can take decades for deep-sea ecosystems to show signs of recovery 🐢. Even if faunal abundance recovers, the colonizing species may differ from the original ones [1].
@@ -88,3 +93,5 @@ Deep-sea mining activities can have long-lasting impacts on marine ecosystems, a
 
 ### Manual Evaluation Score
 7/10 
+
+---
