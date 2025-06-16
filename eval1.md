@@ -49,12 +49,12 @@ Vonnahme, T., Molari, M., Janßen, F., Wenzhöfer, F., Haeckel, M., Titschack, J
 - 🔗 **Connectivity**
 - ☢️ **Multiple stressors**
 
-===============================================================================
+==================================================================================================================
 
 
 ## Evaluation Report
 
-===============================================================================
+==================================================================================================================
 
 
 ### Type - Naive RAG
@@ -96,5 +96,43 @@ Deep-sea mining activities can have long-lasting impacts on marine ecosystems, a
 ### Manual Evaluation Score
 7/10 
 
-===============================================================================
+==================================================================================================================
 
+### Type - Hierarchical RAG
+
+### Response
+The recovery potential of deep-sea environments and species from deep-sea mining impacts is a complex issue with significant uncertainties. While some faunal groups may show signs of density and diversity recovery after smaller-scale disturbances, returning to pre-mining baseline conditions, especially for larger and sessile organisms, is unlikely on human timescales, and possibly even over geological timescales.
+
+**Key Risks and Uncertainties:**
+
+* **Habitat Removal:** Nodule mining, in particular, removes hard substrate habitats crucial for many species, requiring millions of years for potential recovery due to slow nodule growth rates. [1, 3]  Crust mining at seamounts similarly removes substrate, with slow-growing, long-lived species like corals particularly vulnerable. [2]
+
+* **Sediment Plumes:** Mining operations create sediment plumes that can smother benthic communities and interfere with feeding and respiratory functions, potentially affecting areas far beyond the mining site. [1, 2, 3] The long-term impacts of these plumes on microbial communities and ecosystem functions are uncertain. [4]
+
+* **Toxicity:** Plumes may contain toxic metals and other substances released during mining, posing lethal and sub-lethal threats to marine fauna. [2] The long-term effects of these toxicants on deep-sea organisms are not well understood.
+
+* **Slow Growth and Recovery:** Deep-sea species are often characterized by slow growth rates and low fecundity, making population recovery challenging. [2] Experiments simulating mining disturbances have shown limited recovery even after decades. [1, 2, 3, 4]
+
+* **Knowledge Gaps:** Limited baseline data on deep-sea biodiversity and ecosystem functioning hinders accurate impact assessments and predictions of recovery potential. [2, 3] The interconnectedness of deep-sea ecosystems and the potential for cascading effects from mining are poorly understood. [3]
+
+**Mitigation and Restoration Challenges:**
+
+* **Scale of Impacts:** The vast spatial scale of mining operations and the diffuse nature of impacts like sediment plumes make remediation efforts extremely challenging. [2, 4]
+
+* **Technological Limitations:** Current remediation and restoration technologies for deep-sea environments are unproven and unlikely to be effective at the scale required to offset mining impacts. [2, 3]
+
+* **Long-Term Monitoring:** Assessing the effectiveness of restoration efforts requires long-term monitoring programs spanning decades or even centuries, which are logistically and financially challenging. [2]
+
+
+**References:**
+
+[1] Miller, K. A., Thompson, K. F., Johnston, P., & Santillo, D. (2018). An overview of seabed mining including the current state of development, environmental impacts, and knowledge gaps. *Frontiers in Marine Science*, *4*, 418. https://doi.org/10.3389/fmars.2017.00418
+[2] Environmental Justice Foundation. (2023). *Towards the Abyss: How the rush to deep-sea mining threatens people and our planet*. https://ejfoundation.org/resources/downloads/towards-the-abyss-ejf-deep-sea-mining-report.pdf
+[3] Gollner, S., Kaiser, S., Menzel, L., Jones, D. O. B., Brown, A., Mestre, N. C., . . . Martinez Arbizu, P. (2017). Resilience of benthic deep-sea fauna to mining activities. *Marine Environmental Research*, *129*, 76–101. https://doi.org/10.1016/j.marenvres.2017.04.010
+[4] Orcutt, B. N., Bradley, J., Brazelton, W. J., Estes, E. R., Goordial, J. M., Huber, J. A., . . . Pachiadaki, M. (2018). Impacts of deep-sea mining on microbial ecosystem services. *bioRxiv*, 463992. https://doi.org/10.1101/463992
+
+### Automatic Evaluation Score
+8.5/10  
+
+### Manual Evaluation Score
+8/10 
