@@ -49,11 +49,13 @@ Vonnahme, T., Molari, M., Janßen, F., Wenzhöfer, F., Haeckel, M., Titschack, J
 - 🔗 **Connectivity**
 - ☢️ **Multiple stressors**
 
----
+===============================================================================
+
 
 ## Evaluation Report
 
----
+===============================================================================
+
 
 ### Type - Naive RAG
 
@@ -94,4 +96,5 @@ Deep-sea mining activities can have long-lasting impacts on marine ecosystems, a
 ### Manual Evaluation Score
 7/10 
 
----
+===============================================================================
+
