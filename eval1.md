@@ -49,19 +49,20 @@ Vonnahme, T., Molari, M., Janßen, F., Wenzhöfer, F., Haeckel, M., Titschack, J
 - 🔗 **Connectivity**
 - ☢️ **Multiple stressors**
 
+## Evaluation Report
 
-### Naive RAG
+### Type - Naive RAG
 
 ### Response
 Deep-sea mining activities can have long-lasting impacts on marine ecosystems, and the recovery of affected environments and species is uncertain [1].
 **Impacts and Recovery Variances:**
-* Mining activities can result in mortality of fauna, habitat loss and modification, and habitat fragmentation, leading to potential local extinctions [1].
-* Experiments mimicking mining disturbances in abyssal nodule fields suggest that it can take decades for deep-sea ecosystems to show signs of recovery. Even if faunal abundance recovers, the colonizing species may differ from the original ones [1].
+* Mining activities can result in mortality of fauna, habitat loss and modification, and habitat fragmentation 🔗, leading to potential local extinctions [1].
+* Experiments mimicking mining disturbances in abyssal nodule fields suggest that it can take decades for deep-sea ecosystems to show signs of recovery 🐢. Even if faunal abundance recovers, the colonizing species may differ from the original ones [1].
 * Faunal densities tend to recover more quickly than local diversity; the latter may remain significantly reduced even after decades [1].
 * Recovery rates vary among different ecosystems and benthic taxa. Smaller and mobile animals typically recover faster than larger, sessile species [1].
-* Seamount ecosystems can take a long time to recover, and mining modifications may be too substantial for the community to return to its pre-disturbance composition and abundance [2].
+* Seamount ecosystems can take a long time to recover, and mining modifications may be too substantial for the community to return to its pre-disturbance composition and abundance ⏳[2].
 * In nodule fields, fauna relying on nodules as a hard substrate may be absent for millions of years until the substratum recovers [2].
-* Disturbed seabed communities could take several decades or centuries to recover, and some may never recover at all [3]. Population recovery is particularly difficult for deep-sea species, which are often characterised by slow growth rates and low fecundity [3].
+* Disturbed seabed communities could take several decades or centuries to recover, and some may never recover at all [3]. Population recovery is particularly difficult for deep-sea species, which are often characterised by slow growth rates and low fecundity 🧬[3].
 * The long-lasting legacy of deep-sea mining includes the reduction of microbial activity. Research indicates that it would take at least 50 years for some microbial functions to return, with full recovery taking much longer due to slow sedimentation rates [4].
 
 **Mitigation and Restoration Actions:**
@@ -72,8 +73,8 @@ Deep-sea mining activities can have long-lasting impacts on marine ecosystems, a
 **Challenges and Uncertainties:**
 * There is a lack of practical experience regarding mitigation and restoration actions following mining impacts, which severely hampers their predictability and estimation of success [1].
 * The high costs associated with restoration in the deep sea could significantly hinder its feasibility [1].
-* The potential responses of communities to mitigation and restoration actions, such as deployment of artificial nodules, are currently unknown [2].
-* It is not yet possible to estimate the effect of cumulative impacts or predict whether they will result in irreversible changes, causing altered ecosystem states in areas surrounding mining [2].
+* The potential responses of communities to mitigation and restoration actions, such as deployment of artificial nodules, are currently unknown ❓[2].
+* It is not yet possible to estimate the effect of cumulative impacts ☢️ or predict whether they will result in irreversible changes, causing altered ecosystem states in areas surrounding mining [2].
 
 **References**
 
@@ -83,7 +84,7 @@ Deep-sea mining activities can have long-lasting impacts on marine ecosystems, a
 4. Derouin, S. (2020). The Long-Lasting Legacy of Deep-Sea Mining. *Eos, 101*. [https://doi.org/10.1029/2020EO144321](https://doi.org/10.1029/2020eo144321)
 
 ### Automatic Evaluation Score
-27.5   
+6.4/10  
 
 ### Manual Evaluation Score
-27.5 
+7/10 
