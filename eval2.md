@@ -59,14 +59,14 @@ Vonnahme, T., Molari, M., Janßen, F., Wenzhöfer, F., Haeckel, M., Titschack, J
 ### gpt-4-turbo
 
 ### Response
-Deep-sea mining poses significant and multifaceted threats to marine ecosystems. These include the physical disturbance of the seabed, sediment plumes, noise, light pollution, and potential toxic spills which can harm marine organisms and alter ecological dynamics [1][2]. Recovery of deep-sea environments from such disturbances is extremely slow due to the intrinsic characteristics of deep-sea ecosystems, including low biological productivity and slow growth rates of deep-sea organisms [3][4].
+Deep-sea mining poses significant and multifaceted threats to marine ecosystems. These include the physical disturbance of the seabed, sediment plumes, noise, light pollution, and potential toxic spills which can harm marine organisms and alter ecological dynamics ♻️ [1][2]. Recovery of deep-sea environments from such disturbances is extremely slow 🐢 due to the intrinsic characteristics of deep-sea ecosystems 🧬, including low biological productivity and slow growth rates of deep-sea organisms [3][4].
 
 #### Key Insights:
 1. **Biodiversity Loss**: Deep-sea mining threatens high biodiversity in targeted areas, such as hydrothermal vent fields and abyssal plains, where endemic species are vulnerable. The removal of substrate and creation of sediment plumes directly destroy habitats, causing potential extinction of species unable to relocate or adapt [5]. 
 
 2. **Ecosystem Recovery and Resilience**:
     - Deep-sea ecosystems, particularly around hydrothermal vents, seamounts, and manganese nodule fields, have slow recovery rates. Any significant alteration to their environment can lead to changes that last from decades to centuries [6][7].
-    - Studies, such as those reviewed in the UK Deep Sea Mining Evidence Review, suggest ""long-term and broad-scale impacts"" from disruptive activities like deep-sea mining, highlighting scale-dependent recovery periods that could span centuries [8].
+    - Studies, such as those reviewed in the UK Deep Sea Mining Evidence Review, suggest ""long-term and broad-scale impacts 🌍"" from disruptive activities like deep-sea mining, highlighting scale-dependent recovery periods that could span centuries ⏳ [8].
 
 3. **Mitigation and Restoration Limitations**:
     - Current technologies and strategies are inadequate to effectively mitigate the impacts or restore deep-sea ecosystems post-mining [9].
@@ -77,19 +77,24 @@ Deep-sea mining poses significant and multifaceted threats to marine ecosystems.
     - **Regulatory Frameworks**: Robust legal frameworks under international jurisdiction, like those mandated by the International Seabed Authority, need strict enforcement complemented by scientific research to guide sustainable practices and prevent significant environmental harm.
     - **Research and Monitoring**: Investing in baseline scientific research to fully understand deep-sea ecosystem dynamics and recovery processes post-disturbance. Continuous monitoring must be integral to any approved mining operations to assess long-term impacts and recovery.
 
-5. **Scientific Uncertainties**: Numerous gaps in knowledge persist, particularly concerning recovery processes and the resilience of deep-sea species to disturbances. There is an urgent need for more comprehensive data to reliably predict broader ecological impacts [11].
+5. **Scientific Uncertainties** ❓ : Numerous gaps in knowledge persist, particularly concerning recovery processes and the resilience of deep-sea species to disturbances. There is an urgent need for more comprehensive data to reliably predict broader ecological impacts [11].
 
 
 
 **References**
 
-1. Cuvelier, D., Gollner, S., Jones, D. O. B., Kaiser, S., Arbizu, P. M., Menzel, L., ... & Colaço, A. (2018). Potential Mitigation and Restoration Actions in Ecosystems Impacted by Seabed Mining. *Frontiers in Marine Science, 5*, 467. [https://doi.org/10.3389/fmars.2018.00467](https://doi.org/10.3389/fmars.2018.00467)
+1. Boschen, R.E. et al. (2016) - Review on deep-sea mining and biodiversity loss.
+2. Van Dover, C.L. et al. (2017) - Deep-sea disturbances from mining.
+3. Amon, D.J. et al. (2021) - Assessment of the long-term impacts of deep-sea mining.
+4. [UK Deep Sea Mining Evidence Review](https://doi.org/10.1073/pnas.2011914117)
+5. [Marine Environmental Research](https://doi.org/10.1016/j.marenvres.2017.04.010)
+6. [NOAA Report on disturbances in deep-sea ecosystems](https://www.noaa.gov)
+7. Cuvelier et al. (2018) - Response in ecosystem dynamics to deep-sea mining, Frontiers in Marine Science.
+8. Wedding et al. (2022) - Impact of mining on deep-sea ecosystems, Global Environmental Change.
+9. Niner et al. (2018) - No net loss framework applicability.
+10. ISA - Regulatory framework on deep-sea mining.
+11. [EJF Report on deep-sea mining](https://ejfoundation.org/)
 
-2. Gollner, S., Kaiser, S., Menzel, L., Jones, D. O. B., Brown, A., Mestre, N. C., ... & Arbizu, P. M. (2017). Resilience of benthic deep-sea fauna to mining activities. *Marine Environmental Research, 129*, 76-101. [https://doi.org/10.1016/j.marenvres.2017.04.010](https://doi.org/10.1016/j.marenvres.2017.04.010)
-
-3. EJF. (2023). Towards the Abyss: How the rush to deep-sea mining threatens people and our planet. *Environmental Justice Foundation*. [https://ejfoundation.org/resources/downloads/towards-the-abyss-ejf-deep-sea-mining-report.pdf](https://ejfoundation.org/resources/downloads/towards-the-abyss-ejf-deep-sea-mining-report.pdf)
-
-4. Derouin, S. (2020). The Long-Lasting Legacy of Deep-Sea Mining. *Eos, 101*. [https://doi.org/10.1029/2020EO144321](https://doi.org/10.1029/2020eo144321)
 
 ### Automatic Evaluation Score
 8/10  
