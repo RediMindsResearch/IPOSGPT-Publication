@@ -6,6 +6,9 @@ We compared RAG approaches and model backends to identify a retrieval setup that
 
 ## 📄 Contents
 
+- [List of Evaluation Queries](https://github.com/RediMindsResearch/IPOSGPT-Publication/blob/main/eval-queries.md)  
+  The full set of evaluation queries employed in the IPOSGPT assessment.
+  
 - [Evaluation Summary](https://github.com/RediMindsResearch/IPOSGPT-Publication/blob/main/eval1.md)  
   Summary of comparative results based on RAG strategy for a representative query.
 

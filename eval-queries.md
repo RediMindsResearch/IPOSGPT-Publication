@@ -32,5 +32,5 @@ Below is the list of 25 evaluation queries used in the IPOSGPT project. These qu
 
 ---
 
-*For more details, please refer to the IPOSGPT project documentation.*
+*For more details, please refer to the IPOSGPT project publications.*
 
