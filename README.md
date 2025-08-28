@@ -1,8 +1,10 @@
-# IPOSGPT Retrieval Configuration Evaluation
+# IPOSGPT - Trustworthy AI for the Ocean: Bridging the Science-Policy Divide
 
-This repository presents experimental results used to select the optimal retrieval strategy and LLM configuration for the IPOSGPT pipeline.
+[![DOI](https://zenodo.org/badge/1001043644.svg)](https://doi.org/10.5281/zenodo.16988264)
 
-We compared RAG approaches and model backends to identify a retrieval setup that best balances relevance and response quality.
+This repository provides the data, scripts, and example workflows for IPOSGPT, a trustworthy AI system designed to answer ocean science questions and bridge the science-policy divide.
+
+
 
 ## 📄 Contents
 
