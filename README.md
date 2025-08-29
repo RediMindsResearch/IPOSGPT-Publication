@@ -4,7 +4,7 @@
 
 This repository provides the code, data, and example workflows for **IPOSGPT**, a large language model (LLM) system designed to answer ocean science questions in a **trustworthy, transparent, and policy-relevant** manner.  
 
-The project supports our manuscript submission to *Nature Sustainability* and is openly shared to enable exploration, reproducibility, and community feedback.  
+<!-- The project supports our manuscript submission to *Nature Sustainability* and is openly shared to enable exploration, reproducibility, and community feedback.   -->
 
 ---
 
