@@ -2,17 +2,38 @@
 
 [![DOI](https://zenodo.org/badge/1001043644.svg)](https://doi.org/10.5281/zenodo.16988264)
 
-This repository provides the data, scripts, and example workflows for IPOSGPT, a trustworthy AI system designed to answer ocean science questions and bridge the science-policy divide.
+This repository provides the code, data, and example workflows for **IPOSGPT**, a large language model (LLM) system designed to answer ocean science questions in a **trustworthy, transparent, and policy-relevant** manner.  
 
+The project supports our manuscript submission to *Nature Sustainability* and is openly shared to enable exploration, reproducibility, and community feedback.  
 
+---
 
-## 📄 Contents
+## 📂 Repository Structure  
 
-- [List of Evaluation Queries](https://github.com/RediMindsResearch/IPOSGPT-Publication/blob/main/eval-queries.md)  
-  The full set of evaluation queries employed in the IPOSGPT assessment.
-  
-- [Evaluation Summary](https://github.com/RediMindsResearch/IPOSGPT-Publication/blob/main/eval1.md)  
-  Summary of comparative results based on RAG strategy for a representative query.
+### `code/` – Core IPOSGPT components  
+The main pipeline can be followed in this order:  
 
-- [Evaluation Summary](https://github.com/RediMindsResearch/IPOSGPT-Publication/blob/main/eval2.md)  
-  Summary of comparative results based on LLM model for a representative query.
+1. **`hierarchical_retrieval.py`** – Multi-stage retrieval from the custom ocean science database.  
+2. **`response_generation.py`** – Response generation and source tracking pipeline.  
+3. **`post_generation_processing.py`** – Post-response pipeline for **source traceability and verification**.  
+4. **`conversational_memory.py`** – Maintains context and memory across user queries.  
+5. **`news_api.py`** – Retrieves recent ocean-related news articles for enrichment (optional).  
+
+### `data/` – Evaluation & case studies  
+- **Evaluation queries** – Benchmark questions used in the assessment of IPOSGPT.  
+- **Hyperparameter optimization** – Results and configuration files used for tuning retrieval and model parameters.  
+- **Seychelles case study** – Materials supporting the case study demonstration.  
+
+---
+
+## 📊 Evaluation Materials  
+
+- [List of Evaluation Queries](./eval-queries.md)  
+- [Evaluation Summary – RAG strategies](./eval1.md)  
+- [Evaluation Summary – LLM models](./eval2.md)  
+
+---
+
+## 🚀 Getting Started  
+
+> **Note**: This repository provides scripts and data for **reproducibility, exploration, and community feedback**, not a production-ready system.  

@@ -17,7 +17,7 @@ from hierarchical_retrieval import process_documents_with_chunking
 # --- Example Query ---
 query_text = "What national-level strategies are most effective in addressing the issue of ghost fishing gear?"
 
-#System Prompt (Example system prompt)
+#System Prompt (This version is partial, not the final version used in production)
 system_prompt = """
 You are a highly specialized AI assistant. You will be presented with a user query, followed by a corpus of source material. Each source will come with a source number and content in the format - **[{**source number**}] \n Content: content**. Your task is to use this source material and ONLY this source material to answer the user query. Do not use any knowledge you may have that is not present in the provided source material.
 
