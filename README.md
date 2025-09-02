@@ -19,7 +19,7 @@ The main pipeline can be followed in this order:
 4. **`conversational_memory.py`** – Maintains context and memory across user queries.  
 5. **`news_api.py`** – Retrieves recent ocean-related news articles for enrichment (optional).  
 
-### `data/` – Evaluation & case studies  
+### `data/` – Evaluation & Case Study  
 - **Evaluation queries** – Benchmark questions used in the assessment of IPOSGPT.  
 - **Hyperparameter optimization** – Results and configuration files used for tuning retrieval and model parameters.  
 - **Seychelles case study** – Full case study report.  
