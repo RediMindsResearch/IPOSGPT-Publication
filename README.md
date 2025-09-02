@@ -22,15 +22,15 @@ The main pipeline can be followed in this order:
 ### `data/` – Evaluation & case studies  
 - **Evaluation queries** – Benchmark questions used in the assessment of IPOSGPT.  
 - **Hyperparameter optimization** – Results and configuration files used for tuning retrieval and model parameters.  
-- **Seychelles case study** – Materials supporting the case study demonstration.  
+- **Seychelles case study** – Full case study report.  
 
 ---
 
-## 📊 Evaluation Materials  
+<!-- ## 📊 Evaluation Materials  
 
 - [List of Evaluation Queries](./eval-queries.md)  
 - [Evaluation Summary – RAG strategies](./eval1.md)  
-- [Evaluation Summary – LLM models](./eval2.md)  
+- [Evaluation Summary – LLM models](./eval2.md)   -->
 
 ---
 
